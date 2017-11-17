@@ -1,0 +1,23 @@
+{
+  "name": "url-qs",
+  "version": "1.0.0",
+  "description": "A tool which transfer url between object and string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shatle/url-qs.git"
+  },
+  "keywords": [
+    "url",
+    "qs"
+  ],
+  "author": "shatle@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shatle/url-qs/issues"
+  },
+  "homepage": "https://github.com/shatle/url-qs#readme"
+}
